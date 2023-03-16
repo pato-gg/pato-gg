@@ -1,8 +1,6 @@
-- 👋 Hi, I’m Pato Garza
-- 👀 I’m interested in data analysis, data science, international economics and finance
-- 🌱 I’m currently learning SQL, Power BI and Python for data analysis and science. I'm proficient in R. 
-- 💞️ I’m looking to collaborate on intersting data storytelling and machine learning projects 
-- 📫 How to reach me: patogarza093@gmail.com
+Hola, soy Patricio!
+
+Soy un Politólogo Internacionalista apasionado de las matemáticas y la estadísitica. Disfruto de utilizar distintos lenguajes de programación para analizar datos y obtener conclusiones interesantes sobre distintos problemas. Mis principales fortalezas son Python y R. 
 
 <!---
 pato-gg/pato-gg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
